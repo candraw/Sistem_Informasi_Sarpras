@@ -1,1 +1,1 @@
-# Sistem_Informasi_Sarpras
+# Sistem Informasi Sarana Prasarana Sekolah
